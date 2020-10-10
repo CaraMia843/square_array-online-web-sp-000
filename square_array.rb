@@ -4,4 +4,5 @@ def square_array(array)
     square = arr * arr
     squared.push(square)
   end
+  squared
 end
